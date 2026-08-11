@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:1 tvg-name="Adnan_01" tvg-logo="https://od.lk/d/MV8zNjQ5MjI3MTJfTjR3MW4/images.jpeg" group-title="Series",Adnan_01
+https://serv2.servallvid.com/files/OldCartoon/AdnanWLena/AdnanWLena01_629144503721.mp4
+#EXTINF:1 tvg-name="Adnan_02" tvg-logo="https://od.lk/d/MV8zNjQ5MjI3MTJfTjR3MW4/images.jpeg" group-title="Series",Adnan_02
+https://serv2.servallvid.com/files/OldCartoon/AdnanWLena/AdnanWLena02_628143502720.mp4
+#EXTINF:1 tvg-name="Adnan_03" tvg-logo="https://od.lk/d/MV8zNjQ5MjI3MTJfTjR3MW4/images.jpeg" group-title="Series",Adnan_03
+https://serv2.servallvid.com/files/OldCartoon/AdnanWLena/AdnanWLena03_624139498716.mp4
+#EXTINF:1 tvg-name="Channel 4" tvg-logo="" group-title="Live",Channel 4
+http://dinka-iptv.live:80/live/oN19kzehr7/rDbrxUg0JU/399954.ts
+#EXTINF:1 tvg-name="Channel 5" tvg-logo="" group-title="Live",Channel 5
+http://dinka-iptv.live:80/live/oN19kzehr7/rDbrxUg0JU/399971.ts
+#EXTINF:1 tvg-name="Channel 6" tvg-logo="" group-title="Live",Channel 6
+http://dinka-iptv.live:80/live/oN19kzehr7/rDbrxUg0JU/399954.ts
+#EXTINF:1 tvg-name="Film1" tvg-logo="https://od.lk/d/MV8zNjQ2ODc2MTVfRTBIbW8/artworks-L5LrSVF5rmUiHeGM-5i6FUg-t500x500.jpg" group-title="Movie",Film1
+http://4kpro2.com/movie/WSET2024/SADF5566/478075.mkv
